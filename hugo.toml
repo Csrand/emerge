@@ -1,4 +1,4 @@
-baseURL = 'https://emergee.netlify.app'
+baseURL = 'https://emergee.netlify.app/'
 title = 'Emerge'
 theme = 'mini'
 [params]
