@@ -1,0 +1,8 @@
+baseURL = 'https://https://emergee.netlify.app'
+title = 'Emerge'
+theme = 'mini'
+[params]
+    author = "Csrand"
+    description = "É o fim mesmo."
+    [params.social]
+        instagram = "https://instagram.com/csrand6"
