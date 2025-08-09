@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://emergee.netlify.app/</loc>
+    <loc>https://csrand.github.io/emerge/</loc>
     <lastmod>2025-08-08T13:44:12-03:00</lastmod>
   </url><url>
-    <loc>https://emergee.netlify.app/posts/hello-world/</loc>
+    <loc>https://csrand.github.io/emerge/posts/hello-world/</loc>
     <lastmod>2025-08-08T13:44:12-03:00</lastmod>
   </url><url>
-    <loc>https://emergee.netlify.app/posts/</loc>
+    <loc>https://csrand.github.io/emerge/posts/</loc>
     <lastmod>2025-08-08T13:44:12-03:00</lastmod>
   </url><url>
-    <loc>https://emergee.netlify.app/categories/</loc>
+    <loc>https://csrand.github.io/emerge/categories/</loc>
   </url><url>
-    <loc>https://emergee.netlify.app/tags/</loc>
+    <loc>https://csrand.github.io/emerge/tags/</loc>
   </url>
 </urlset>
