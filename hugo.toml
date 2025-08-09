@@ -1,0 +1,16 @@
+baseURL = 'https://emergee.netlify.app/'
+title = 'Emerge'
+theme = 'mini'
+[params]
+    author = "Csrand"
+    description = "É o fim mesmo."
+    [params.social]
+        instagram = "https://instagram.com/csrand6"
+[deployment]
+  confirm = false
+  dryRun = false
+  force = false
+  invalidateCDN = true
+  maxDeletes = 256
+  target = ''
+  workers = 10
