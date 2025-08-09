@@ -6,6 +6,7 @@ author: Csrand
 summary: Perto do Fim um Novo Início
 ---
 # Perto do Fim um Novo Início
+![uma árvore](/images/hello.png)
 Acredito que não exista uma maneira melhor de começar com isso sem evidenciar essa frase, ainda mais quando se trata da "criação" de algo, onde temos a tendência de deduzir que o "novo" não possui ligação com o que já existe, mesmo que obrigatoriamente seja a causa de um processo que chegou ao fim, e que tornou possível o início.
 
 O que me motivou a escrever esse blog é justamente o fim — esse fim presente em ciclos, em conclusões que eu tinha, em alguns sentimentos, em pensamentos, e o principal: o fim do medo. Medo de querer ser um exemplo, algo a ser seguido — ou de ser interpretado como alguém que se vê assim. Esse medo não está atrelado a uma interpretação externa; surgiu quando notei, em diversos momentos em minha vida, o desejo de querer que o outro veja a vida como eu vejo — o que parece fazer sentido, caso você ignore o fato de que está tentando estender a sua vida ao outro. E que, antes de o ser humano tentar se estender pelo intelecto, já se estendia a vida — só que, ao invés do ego e interpretações pessoais, usava-se o pênis mesmo, e nos contentávamos em estender as características mais "físicas", por assim dizer.

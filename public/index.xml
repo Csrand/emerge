@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emerge</title>
-    <link>https://emergee.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Emerge</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 08 Aug 2025 13:44:12 -0300</lastBuildDate>
-    <atom:link href="https://emergee.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>https://emergee.netlify.app/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 08 Aug 2025 13:44:12 -0300</pubDate>
-      <guid>https://emergee.netlify.app/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>Perto do Fim um Novo Início</description>
     </item>
   </channel>
