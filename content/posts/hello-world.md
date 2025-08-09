@@ -5,7 +5,7 @@ draft: false
 author: Csrand
 summary: Perto do Fim um Novo Início
 ---
-# Perto do Fim um Novo Início
+## Perto do Fim um Novo Início
 ![uma árvore](/images/hello.png)
 Acredito que não exista uma maneira melhor de começar com isso sem evidenciar essa frase, ainda mais quando se trata da "criação" de algo, onde temos a tendência de deduzir que o "novo" não possui ligação com o que já existe, mesmo que obrigatoriamente seja a causa de um processo que chegou ao fim, e que tornou possível o início.
 
